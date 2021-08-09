@@ -1,0 +1,119 @@
+{
+  "cards": [
+    {
+      "name": "Martha Pollack",
+      "id": 0,
+      "type": "character"
+    },
+    {
+      "name": "Ezra Cornell",
+      "id": 1,
+      "type": "character"
+    },
+    {
+      "name": "David Gries",
+      "id": 2,
+      "type": "character"
+    },
+    {
+      "name": "Michael Clarkson",
+      "id": 3,
+      "type": "character"
+    },
+    {
+      "name": "Walker White",
+      "id": 4,
+      "type": "character"
+    },
+    {
+      "name": "Claire Cardie",
+      "id": 5,
+      "type": "character"
+    },
+    {
+      "name": "the hall",
+      "id": 6,
+      "type": "location"
+    },
+    {
+      "name": "cocktail lounge",
+      "id": 7,
+      "type": "location"
+    },
+    {
+      "name": "jansen's dining",
+      "id": 8,
+      "type": "location"
+    },
+    {
+      "name": "terrace restaurant",
+      "id": 9,
+      "type": "location"
+    },
+    {
+      "name": "bailey hall",
+      "id": 10,
+      "type": "location"
+    },
+    {
+      "name": "libe slope",
+      "id": 11,
+      "type": "location"
+    },
+    {
+      "name": "helen newman",
+      "id": 12,
+      "type": "location"
+    },
+    {
+      "name": "law library",
+      "id": 13,
+      "type": "location"
+    },
+    {
+      "name": "duffield hall",
+      "id": 14,
+      "type": "location"
+    },
+    {
+      "name": "candlestick",
+      "id": 15,
+      "type": "weapon"
+    },
+    {
+      "name": "wrench",
+      "id": 16,
+      "type": "weapon"
+    },
+    {
+      "name": "rope",
+      "id": 17,
+      "type": "weapon"
+    },
+    {
+      "name": "pipe",
+      "id": 18,
+      "type": "weapon"
+    },
+    {
+      "name": "knife",
+      "id": 19,
+      "type": "weapon"
+    },
+    {
+      "name": "revolver",
+      "id": 20,
+      "type": "weapon"
+    },
+    {
+      "name": "axe",
+      "id": 21,
+      "type": "weapon"
+    },
+    {
+      "name": "poison",
+      "id": 22,
+      "type": "weapon"
+    }
+  ]
+}

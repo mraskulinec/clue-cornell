@@ -1,0 +1,8 @@
+#require "ounit2";;
+#require "yojson";;
+#require "ANSITerminal";;
+#directory "_build";;
+#load "clue.cmo";;
+#load "command.cmo";;
+#require "str";;
+#require "bisect_ppx.runtime";;

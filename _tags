@@ -1,0 +1,3 @@
+<{clue2}.ml>: coverage
+<test.{byte,native}>: coverage
+true: package(ounit2),package(yojson),package(ANSITerminal),package(bisect_ppx)

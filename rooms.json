@@ -1,0 +1,131 @@
+{
+  "rooms": [
+    {
+      "name": "the hall",
+      "id": 6,
+      "exit": [
+        {
+          "name": "cocktail lounge",
+          "type": "regular"
+        },
+        {
+          "name": "duffield hall",
+          "type": "regular"
+        }
+      ]
+    },
+    {
+      "name": "cocktail lounge",
+      "id": 7,
+      "exit": [
+        {
+          "name": "jansen's dining",
+          "type": "regular"
+        },
+        {
+          "name": "the hall",
+          "type": "regular"
+        }
+      ]
+    },
+    {
+      "name": "jansen's dining",
+      "id": 8,
+      "exit": [
+        {
+          "name": "terrace restaurant",
+          "type": "regular"
+        },
+        {
+          "name": "cocktail lounge",
+          "type": "regular"
+        }
+      ]
+    },
+    {
+      "name": "terrace restaurant",
+      "id": 9,
+      "exit": [
+        {
+          "name": "bailey hall",
+          "type": "regular"
+        },
+        {
+          "name": "jansen's dining",
+          "type": "regular"
+        }
+      ]
+    },
+    {
+      "name": "bailey hall",
+      "id": 10,
+      "exit": [
+        {
+          "name": "libe slope",
+          "type": "regular"
+        },
+        {
+          "name": "the terrace",
+          "type": "regular"
+        }
+      ]
+    },
+    {
+      "name": "libe slope",
+      "id": 11,
+      "exit": [
+        {
+          "name": "helen newman",
+          "type": "regular"
+        },
+        {
+          "name": "bailey hall",
+          "type": "regular"
+        }
+      ]
+    },
+    {
+      "name": "helen newman",
+      "id": 12,
+      "exit": [
+        {
+          "name": "law library",
+          "type": "regular"
+        },
+        {
+          "name": "libe slope",
+          "type": "regular"
+        }
+      ]
+    },
+    {
+      "name": "law library",
+      "id": 13,
+      "exit": [
+        {
+          "name": "duffield hall",
+          "type": "regular"
+        },
+        {
+          "name": "helen newman",
+          "type": "regular"
+        }
+      ]
+    },
+    {
+      "name": "duffield hall",
+      "id": 14,
+      "exit": [
+        {
+          "name": "the hall",
+          "type": "regular"
+        },
+        {
+          "name": "law library",
+          "type": "regular"
+        }
+      ]
+    }
+  ],
+  "start room": "the hall"
+}
